@@ -1,5 +1,7 @@
 # NTI Analysis of Lai et al.
 
+[![DOI](https://zenodo.org/badge/489268188.svg)](https://zenodo.org/badge/latestdoi/489268188)
+
 This repository contains the software used to produce the analysis results presented in the article (Not published yet).
 
 The final code release is available under https://doi.org/XXXX

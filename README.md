@@ -8,6 +8,7 @@ To reproduce the analysis perform the following steps:
 
 ## Prerequisite
 You need a Linux or Mac system with the [conda package manager](https://docs.conda.io/en/latest/miniconda.html) installed.
+Windows should also work in principle, except the terminal commands in the notebooks prefixed by `!`, for which the user need to perform the equivalent actions manually.
 
 ## Create environment
 To create the conda environment, run the following command from within the cloned repo directory
